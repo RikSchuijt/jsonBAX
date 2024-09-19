@@ -1,6 +1,5 @@
 {
-  "getBoxData": 
-  [
+  "getBoxData": [
     {
       "typeOfMessage": "boxData",
       "barcode": "567891",
@@ -37,5 +36,8 @@
       "width": "400",
       "debugInfo": "Multi-relay"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
