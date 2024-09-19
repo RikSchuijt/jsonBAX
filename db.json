@@ -3,7 +3,7 @@
   [
     {
       "typeOfMessage": "boxData",
-      "barcode": “567891",
+      "barcode": "567891",
       "carrier": "SVT",
       "weight": "4500",
       "length": "300",
@@ -12,7 +12,7 @@
     },
     {
       "typeOfMessage": "boxData",
-      "barcode": “567892",
+      "barcode": "567892",
       "carrier": "SVT",
       "weight": "1500",
       "length": "600",
@@ -21,7 +21,7 @@
     },
     {
       "typeOfMessage": "boxData",
-      "barcode": “567897",
+      "barcode": "567897",
       "carrier": "BPO",
       "weight": "1850",
       "length": "350",
@@ -30,7 +30,7 @@
     },
     {
       "typeOfMessage": "boxData",
-      "barcode": “567893",
+      "barcode": "567893",
       "carrier": "MRU",
       "weight": "532",
       "length": "600",
