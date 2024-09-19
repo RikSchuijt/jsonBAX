@@ -1,31 +1,39 @@
 {
-  "posts": [
+  "getBoxData": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "typeOfMessage": "boxData",
+      "barcode": “01234567890",
+      "carrier": "SVT",
+      "weight": "4500",
+      "length": "300",
+      "width": "200",
+      "debugInfo": "DHL"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "typeOfMessage": "boxData",
+      "barcode": “01234567890",
+      "carrier": "SVT",
+      "weight": "1500",
+      "length": "600",
+      "width": "400",
+      "debugInfo": "DHL"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "typeOfMessage": "boxData",
+      "barcode": “01234567890",
+      "carrier": "BPO",
+      "weight": "1850",
+      "length": "350",
+      "width": "250",
+      "debugInfo": "Belgische Post"
+    },
+    {
+      "typeOfMessage": "boxData",
+      "barcode": “01234567890",
+      "carrier": "MRU",
+      "weight": "532",
+      "length": "600",
+      "width": "400",
+      "debugInfo": "Multi-relay"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
